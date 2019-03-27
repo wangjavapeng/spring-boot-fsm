@@ -14,7 +14,7 @@ import com.yestae.report.enums.Events;
 import com.yestae.report.enums.States;
 
 /**
- * Hello world!
+ * 命令行方式使用状态机
  *
  */
 @SpringBootApplication

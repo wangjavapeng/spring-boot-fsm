@@ -15,7 +15,7 @@ import com.yestae.report.enums.States;
 
 /**
  * 
- * 状态机配置
+ * 状态机工厂配置
  *
  */
 @Configuration
